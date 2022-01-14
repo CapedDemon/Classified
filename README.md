@@ -1,11 +1,6 @@
 # CLASSIFIED
 <p align="center">
-----               ----   ----
-|    |       /\    |      |      |---- -----  |----  |-----
-|    |      /__\   ----   ----   |---    |    |___   |     |
-|    |     /    \     |       |  |       |    |      |     |
----- ---- /      \ ----   ----   |     -----  |----  |-----
-<a href="https://github.com/Shreejan-35/Classified"><img src="https://img.shields.io/badge/Language-c++-blue.svg" alt="Language"></a>
+<a href="https://github.com/Shreejan-35/Classified"><img src="https://img.shields.io/badge/Language-c++-green.svg" alt="Language"></a>
 <a href="https://github.com/Shreejan-35/Classified/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-GNU-blue.svg" alt="License"></a>
 </p>
 
