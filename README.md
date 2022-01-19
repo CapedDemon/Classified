@@ -15,7 +15,7 @@ Using **Classified** is very simple.
 <br>
 But before that you need to install it. For installing you can clone my repository using the below command - 
 ```
-git clone 
+git clone https://github.com/Shreejan-35/Classified.git
 ```
 Or you can download the zip code by clicking on the green code button and selecting **Download ZIP file**.
 
